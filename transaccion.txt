@@ -1,0 +1,6 @@
+Transacciones
+A C D
+A B C E
+B C E
+B E
+A B C F
